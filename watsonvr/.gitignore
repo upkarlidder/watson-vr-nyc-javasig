@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+target
+/src/main/java/upkar/ibm/watson/env.properties
