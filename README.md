@@ -1,6 +1,6 @@
 # Drones with IBM Watson - NYJavaSIG
 
-## November Monthly Meeting
+## [November Monthly Meeting](http://www.javasig.com/)
 
 ### Drones and Image Recognition
 Drones flying over a natural disaster (floods, fires, earthquakes, etc) taking pictures can provide vital information very fast to first responders. For example, drones can report casualties or the extent of damage. Combining this with visual recognition service allows to classify and tag visual content using Machine Learning. Come join us to learn how to tag, classify and train visual content from a drone using machine learning. In this workshop developers will learn:
